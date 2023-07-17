@@ -486,6 +486,14 @@
     {
       "name": "AnkePrangert",
       "description": "der Verbraucherschutzkanal"
+    },
+    {
+      "name": "AnkeFochten",
+      "description": "der Revisionskanal"
+    },
+    {
+      "name": "VorAnkeKommen",
+      "description": "der Fortschittskanal"
     }
   ]
 }
